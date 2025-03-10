@@ -37,13 +37,6 @@ This repository contains the **about.html** page, which integrates seamlessly wi
 📜 style.css (Custom Styles)
 📜 README.md (This file)
 ```
-
----
-
-## 🎨 UI Preview
-![Screenshot](assets/img/GA_index.jpeg)
-![Uploading image.png…]()
-
 ---
 
 ## 🌍 Live Demo
