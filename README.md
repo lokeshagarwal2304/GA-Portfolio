@@ -40,7 +40,7 @@ This repository contains the **about.html** page, which integrates seamlessly wi
 ---
 
 ## 🌍 Live Demo
-You can check out the **live version** of this page **[here](#https://lokeshagarwal2304.github.io/GA-Portfolio/)**. 🔗
+You can check out the **live version** of this page **[here](https://lokeshagarwal2304.github.io/GA-Portfolio/)**. 🔗
 
 ---
 
