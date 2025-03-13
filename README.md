@@ -57,11 +57,17 @@ You can check out the **live version** of this page **[here](https://lokeshagarw
 3️⃣ **Open `about.html` in your browser** and explore the page! 🎉
 
 ---
+🤝 Contributing
+Contributions are welcome! 🎉
 
-## 🤝 Contributing
-Contributions are **welcome**! 🎊 Feel free to **fork** the repository and submit **pull requests** with improvements. 😊
+###Fork the repository 🍴
+Create a new branch 🔀
+Make improvements 🔧
+Submit a pull request ✨
+I'm fast and ready to collab,so Please Support
+📬 Contact
+📧 Email: lokeshagarwal2304@gmail.com 💼 LinkedIn: lokeshagarwal2304 🐦 Twitter: lagarwal2304
 
----
 
 
 ⭐ **If you like this project, don't forget to star the repository!** ⭐
